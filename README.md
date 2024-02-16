@@ -1,1 +1,2 @@
 # Assignment_M1
+This is about module for oerview of IT Industry where the basic concept of IT and internet wil be included. it will consist the concept like wah is software Engineering , basics about software types & architecutre, what is about internet & its terminilogies, networking term : client & server process, SDLC as well as other graphical representation like DFD, Usecases, Algorithm, Flowcharts.
